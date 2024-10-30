@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Nicks Property Category</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 12:38:52</sys_created_on>
+        <sys_id>bc702afd832112109bbaf629feaad346</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nicks Property Category</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_bc702afd832112109bbaf629feaad346</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 12:38:52</sys_updated_on>
+        <title><![CDATA[<p>This is my first category</p>
+<table style="border-collapse: collapse; width: 100%;" border="1"><colgroup><col style="width: 33.3022%;" /><col style="width: 33.3022%;" /><col style="width: 33.3022%;" /></colgroup><tbody><tr><td>With a table in it</td><td>Woo</td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr></tbody></table>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=bc702afd832112109bbaf629feaad346"/>
+</record_update>
